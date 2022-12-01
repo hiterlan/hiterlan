@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **NextJS,GraphQL,SWR,some libs and deepening base knowledge**
 
-- 💬 Ask me about **react, typescript, rhf,**
-
 - 📫 How to reach me **hiterlan@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
