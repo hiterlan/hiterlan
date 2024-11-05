@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiterlan</h1>
-<h3 align="center">A junior developer trying to be better</h3>
+<h3 align="center">Developer trying to be better</h3>
 
 - 🌱 I’m currently learning **NextJS, GraphQL, SWR, some libs and deepening base knowledge**
 
